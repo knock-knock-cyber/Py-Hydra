@@ -1,0 +1,12 @@
+http-get-form
+http-post-form
+https-get-form
+https-post-form
+http-proxy-urlenum
+ldap-crammd5
+ldap-digestmd5
+ldaps-crammd5
+ldaps-digestmd5
+oracle-sid
+pcnfs
+rsh
