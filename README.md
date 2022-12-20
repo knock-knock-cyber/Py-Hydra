@@ -1,4 +1,5 @@
 # Py-Hydra
+![](logo_pyhydra.png)
 
 Py-Hydra, a python interface for [THC-Hydra](https://github.com/vanhauser-thc/thc-hydra), it allows to bruteforce network services using python through the power of Hydra.
 Please refer to the Hydra's GitHub for any question regarding the legal use of this software : [Hydra Github](https://github.com/vanhauser-thc/thc-hydra) 
